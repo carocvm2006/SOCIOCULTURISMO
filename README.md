@@ -1,2 +1,2 @@
-# SOCIOCULTURISMO
-   Desarrollar una herramienta didáctica que permita, reforzar y evaluar las competencias de la asignatura de ciencias sociales, con respecto a los conocimientos básicos de los siguientes ejes temáticos: historia, y cultura general colombiana; buscando fomentar el sentido de pertenencia en nuestro país.
+# socioculturismo1
+El proyecto se basa en ciencias sociales y cultura colombiana donde permitiremos que el usuario retroalimente sus conocimientos y competencias sobre este, tratándose de historia, geografía, y cultura colombiana
